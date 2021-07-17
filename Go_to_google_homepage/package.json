@@ -1,0 +1,14 @@
+{
+  "name": "go_to_google_homepage",
+  "version": "1.0.0",
+  "description": "Go to google home page",
+  "main": "goToGoogleHomePage.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ananda Gopal Dutta",
+  "license": "ISC",
+  "dependencies": {
+    "request": "^2.88.2"
+  }
+}
